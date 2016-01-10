@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Camille
-=======
-Risako
-JB
-Stephen
->>>>>>> cb6023e7cd461042013f41d29cf432ac25c2fd37
+merge conflict resolved?
