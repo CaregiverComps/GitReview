@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Camille
+=======
+Risako
+Jonathan
+Stephen
+>>>>>>> cb6023e7cd461042013f41d29cf432ac25c2fd37
